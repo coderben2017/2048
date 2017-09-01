@@ -1,14 +1,14 @@
 # 2048
 
 ### Description
-- a classical game "2048" writen by native javascript prototype
+- a classical game "2048" writen by Native JavaScript prototype
 
 ### Display Address
 - https://coderben2017.github.io/2048/
 
 ### Update Content
-1. solve the problem "score not return to zero when game over or victory"
-2. solve the problem "cannot get the val of tile"
+1. add a version written by **TypeScript** and **ES6(ES2015)**.
+2. solve some Bugs when the game start.
 
 ### Update Date
-- 2017/07/18
+- 2017/09/01
